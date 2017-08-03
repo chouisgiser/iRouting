@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="iRouting:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="iRouting.war">
+      <element id="artifact" artifact-name="iRouting:war exploded" />
+    </root>
+  </artifact>
+</component>
